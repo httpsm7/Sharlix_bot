@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 # === CONFIG ===
 API_BASE = "https://numapi.anshapi.workers.dev?num="
-BOT_TOKEN = "7745907914:AAEJvwRZqPkDpw-gPTi9oseeYHVMHy1Usww"
+BOT_TOKEN = "BOT_TOKEN"
 
 ENTER_NUMBER = 1
 
